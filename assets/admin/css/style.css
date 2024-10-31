@@ -1,0 +1,108 @@
+/*
+Admin css
+*/
+
+.registration-control-admin.settings{}
+
+
+.registration-control-admin.settings{}
+
+
+.registration-control-admin.settings ul.tab-nav {
+  clear: both;
+  margin: 0;
+  padding: 0;
+}
+
+.registration-control-admin.settings ul.tab-nav li {
+  background: none repeat scroll 0 0 rgb(230, 230, 230);
+  cursor: pointer;
+  display: inline-block;
+  float: left;
+  margin: 0;
+  padding: 15px 20px;
+}
+
+.registration-control-admin.settings ul.tab-nav li.active{
+	background:#ffffff;
+	font-weight: bold;
+	}
+	
+
+
+	
+.registration-control-admin.settings ul.box {
+  clear: both;
+  margin: 0;
+  padding: 0;
+}
+
+.registration-control-admin.settings ul.box li.tab-box {
+  background: rgb(255, 255, 255) none repeat scroll 0 0;
+  display: none;
+  margin: 0;
+  padding: 20px 10px;
+  width: 100%;
+}
+
+
+.registration-control-admin.settings .option-box {
+  margin: 10px 0;
+  padding: 10px;
+}
+
+
+.registration-control-admin.settings .option-box:hover {
+  
+}
+
+
+.registration-control-admin.settings .option-box .option-title {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.registration-control-admin.settings .option-box .option-details {
+  color: rgb(153, 153, 153);
+  font-size: 13px;
+  font-weight: normal;
+  margin: 10px 0;
+}
+
+
+
+
+.registration-control-admin.field-set .meta-fields .items {
+  background: #e7e8e8 none repeat scroll 0 0;
+  margin: 2px 0;
+  padding: 5px;
+}
+
+/*Welcome*/
+
+.registration-control-admin.welcome .single {
+  margin: 30px 0;
+}
+
+.registration-control-admin.welcome .single .title {
+  font-size: 15px;
+  font-weight: bold;
+  margin: 15px 0;
+}
+
+.registration-control-admin.welcome .section {
+
+}
+
+.registration-control-admin.welcome .save-options {
+  background: #e7e8e8 none repeat scroll 0 0;
+  padding: 20px;
+}
+
+
+
+
+
+
+
+

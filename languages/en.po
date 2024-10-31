@@ -1,0 +1,173 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Registration Control\n"
+"POT-Creation-Date: 2016-05-10 01:48+0600\n"
+"PO-Revision-Date: 2016-05-10 01:48+0600\n"
+"Last-Translator: \n"
+"Language-Team: pickplugins.com <support@pickplugins.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ../includes\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class-emails.php:51
+msgid "Account Blocked"
+msgstr ""
+
+#: class-emails.php:52
+msgid "Account Blocked - {site_url}"
+msgstr ""
+
+#: class-emails.php:57
+msgid "Account Deleted"
+msgstr ""
+
+#: class-emails.php:58
+msgid "Account Deleted - {site_url}"
+msgstr ""
+
+#: class-emails.php:78
+msgid "Site Parameters"
+msgstr ""
+
+#: class-emails.php:83
+msgid "Users Parameters"
+msgstr ""
+
+#: class-form.php:81 class-form.php:90 class-form.php:95 class-form.php:306
+#: class-form.php:315 class-form.php:320
+msgid "Remove"
+msgstr ""
+
+#: class-form.php:103 class-form.php:328 class-form.php:360
+msgid "Add more"
+msgstr ""
+
+#: class-form.php:223 class-form.php:494 class-form.php:688
+msgid "filetype: (jpg, png, jpeg), max size: 200Mb"
+msgstr ""
+
+#: class-form.php:223 class-form.php:494 class-form.php:688
+msgid "Upload"
+msgstr ""
+
+#: class-form.php:225 class-form.php:496 class-form.php:690
+msgid "Reset"
+msgstr ""
+
+#: class-functions.php:27
+msgid "General"
+msgstr ""
+
+#: class-functions.php:36
+msgid "Enable domain block"
+msgstr ""
+
+#: class-functions.php:37
+msgid "Enable domain blocking."
+msgstr ""
+
+#: class-functions.php:40 class-functions.php:61 class-functions.php:93
+msgid "Yes"
+msgstr ""
+
+#: class-functions.php:40 class-functions.php:61 class-functions.php:93
+msgid "No"
+msgstr ""
+
+#: class-functions.php:47
+msgid "Blocked domain"
+msgstr ""
+
+#: class-functions.php:48
+msgid "One domain per line. wihtout http://"
+msgstr ""
+
+#: class-functions.php:57
+msgid "Enable username block"
+msgstr ""
+
+#: class-functions.php:58
+msgid "Enable username blocking."
+msgstr ""
+
+#: class-functions.php:68
+msgid "Blocked username"
+msgstr ""
+
+#: class-functions.php:69
+msgid "One name per line."
+msgstr ""
+
+#: class-functions.php:78
+msgid "Action on registration"
+msgstr ""
+
+#: class-functions.php:79
+msgid "Action after complete registration."
+msgstr ""
+
+#: class-functions.php:82
+msgid "Delete"
+msgstr ""
+
+#: class-functions.php:82
+msgid "Block"
+msgstr ""
+
+#: class-functions.php:82
+msgid "None"
+msgstr ""
+
+#: class-functions.php:89
+msgid "Send notify email to user "
+msgstr ""
+
+#: class-functions.php:90
+msgid "Send notify email to user after complete action."
+msgstr ""
+
+#: class-settings.php:24
+msgid "Registration Control"
+msgstr ""
+
+#: class-settings.php:28
+msgid "Emails"
+msgstr ""
+
+#: class-settings.php:30
+msgid "History"
+msgstr ""
+
+#: menu/emails-templates.php:62
+msgid "Email Subject:"
+msgstr ""
+
+#: menu/emails-templates.php:71
+msgid "Email Body:"
+msgstr ""
+
+#: menu/emails-templates.php:95
+msgid " - Emails Templates"
+msgstr ""
+
+#: menu/emails-templates.php:113
+msgid "Changes Saved."
+msgstr ""
+
+#: menu/emails-templates.php:139
+msgid "Save Changes"
+msgstr ""
+
+#: menu/history.php:82
+msgid "&laquo;"
+msgstr ""
+
+#: menu/history.php:83
+msgid "&raquo;"
+msgstr ""
